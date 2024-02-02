@@ -6,8 +6,8 @@ The objective of this project is to evaluate the feasibility of one-class classi
 
 ### Installation
 1. Clone the repository.
-1. Modify the paths in Code/my_configuration.py to match your settings.
-1. Adjust project parameters in Code/my_configuration.py, e.g., the frequency resolution (OPTIONAL).
+1. Modify the paths in Code1/my_configuration.py to match your settings.
+1. Adjust project parameters in Code1/my_configuration.py, e.g., the frequency resolution (OPTIONAL).
 1. run extract_spectral_data.py
 
 ### Analyses
