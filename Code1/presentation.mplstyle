@@ -1,0 +1,19 @@
+
+# Font sizes
+font.size:        12
+axes.titlesize:   large
+axes.labelsize:   medium
+xtick.labelsize:  medium
+ytick.labelsize:  medium
+legend.fontsize:  medium
+
+# Axes
+axes.spines.left:   True  # display axis spines
+axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+
+# Lines
+lines.linewidth : 3
+lines.markersize : 7
+lines.markeredgewidth : 3
